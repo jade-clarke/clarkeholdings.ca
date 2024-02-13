@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 100 100"
+     height="100" width="100" xml:space="preserve" version="1.1" id="defs15">
+<metadata id="metadata8">
+     <rdf:RDF>
+          <cc:Work rdf:about="">
+               <dc:format>image/svg+xml</dc:format>
+               <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+               <dc:title></dc:title>
+          </cc:Work>
+     </rdf:RDF>
+</metadata>
+<g transform="matrix(0.37037311,0,0,-0.37037311,-44.748408,341.11371)" id="g10">
+     <g id="g16">
+          <g clip-path="url(#clipPath22)" id="g18">
+               <g transform="translate(255.8188,679.5293)" id="g24">
+                    <path id="path26"
+                         style="fill:#259be9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         d="m 0,0 c -58.803,0 -106.472,47.669 -106.472,106.472 0,58.802 47.669,106.471 106.472,106.471 9.595,0 18.877,-1.308 27.718,-3.694 2.038,4.201 10.038,21.627 11.557,26.319 -12.437,3.804 -25.608,5.903 -39.275,5.903 -74.438,0 -134.999,-60.56 -134.999,-134.999 0,-74.439 60.561,-134.999 134.999,-134.999 13.728,0 26.966,2.097 39.455,5.927 C 36.753,-13.857 30.646,4.153 30.584,4.493 20.895,1.587 10.635,0 0,0" />
+               </g>
+               <g transform="translate(320.6768,904.2461)" id="g28">
+                    <path id="path30"
+                         style="fill:#626264;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                         d="m 0,0 c 0,0 -13.182,-25.914 -13.182,-25.231 32.658,-18.184 54.795,-52.983 54.795,-93.014 0,-38.759 -20.738,-72.637 -51.697,-91.257 3.17,-9.127 6.66,-18.129 9.742,-27.277 41.952,22.925 70.483,67.451 70.483,118.534 C 70.141,-67.321 41.74,-22.986 0,0" />
+               </g>
+               <path id="path31" style="fill:#626264;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                    d="m 255.819,803.118 h 122.43 v -29.319 h -122.43 z" />
+               <path id="path32" style="fill:#626264;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                    d="m 241.159,841.749 h 29.32 v -122.43 h -29.32 z" />
+          </g>
+     </g>
+</g>
+</svg>

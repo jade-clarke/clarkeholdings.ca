@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+  html, body, #root {
+    @apply bg-slate-800;
+  }
+}
