@@ -10,8 +10,8 @@ const companyUrl = "https://clarkeholdings.ca/";
 const companyName = "Clarke Holdings Inc.";
 const inquiryForm = "https://forms.gle/XnjxmPh2ohEY4tsRA";
 
-const brandHeadline = "Empowering Artists and Investors Alike";
-const brandDescription = "We specialize in digital asset investment and provide free hosting to support small creators. Join us in building a vibrant digital landscape.";
+const brandHeadline = "Invest in Digital Assets, Empower Businesses & Creators";
+const brandDescription = "We specialize in digital asset investment and provide free hosting to support small creators and businesses. Join us in building a vibrant digital landscape.";
 
 function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
